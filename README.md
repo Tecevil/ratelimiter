@@ -1,2 +1,2 @@
 # ratelimiter 
-ratelimiter of sending datas
+ratelimiter of sending datas based on Poco C++ Library
